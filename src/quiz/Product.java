@@ -1,4 +1,4 @@
-//ELİFNUR GÜDÜCÜ 23LBIM005
+
 package quiz;
 
 public class Product {
