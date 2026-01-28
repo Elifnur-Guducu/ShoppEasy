@@ -13,7 +13,7 @@ Bu projenin amacı; Java programlama dilinde nesne yönelimli programlama (OOP) 
 - **ShoppingBasket**
   - Stok kontrolü yapar
   - Stok yeterliyse günceller, değilse kullanıcıyı uyarır
-- **main / Main**
+- **main**
   - Kullanıcıdan girişleri alır
   - Satın alma onayı sürecini yönetir
   - IBAN doğrulaması yapar (16 haneli, yalnızca rakam)
@@ -27,7 +27,7 @@ Bu projenin amacı; Java programlama dilinde nesne yönelimli programlama (OOP) 
 
 ## ▶️ Çalıştırma
 1. Projeyi bir Java IDE’sinde (IntelliJ IDEA, Eclipse vb.) açın.
-2. `quiz` paketi altındaki `main` (veya `Main`) sınıfını çalıştırın.
+2. `quiz` paketi altındaki `main` sınıfını çalıştırın.
 3. Konsoldaki yönergeleri takip edin.
 
 ## 🎯 Kazanımlar
